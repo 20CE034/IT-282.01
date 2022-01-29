@@ -1,0 +1,24 @@
+/* Raleway fonts */
+.font {
+    font-family: 'Raleway';font-size: 22px;
+}
+.title{
+    font-weight: bolder;
+}
+.deco{
+    text-decoration: none;
+}
+.center{
+    text-align: center;
+}
+/* Footer and Header fonts */
+.foohead {
+	font-family: motiva-sans, sans-serif;
+  
+     font-weight: 200;
+}
+/* Dark mode */
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
