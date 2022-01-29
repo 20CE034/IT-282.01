@@ -22,3 +22,11 @@
     background-color: black;
     color: white;
   }
+.button{
+    background-color: rgb(10, 80, 10);
+    color: rgb(179, 243, 179);
+}
+.button:hover{
+    background-color: rgb(251, 255, 14);
+    color: rgb(15, 19, 15);
+}
